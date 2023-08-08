@@ -1,5 +1,5 @@
 # pig-dice-game
-link for project https://bayram96.github.io/pig-dice-game/.
+link for project https://bayramn.github.io/pig-dice-game/.
 
 Basic Dice Rolling game.
 
